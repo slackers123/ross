@@ -19,3 +19,4 @@ Cargo.lock
 /target
 
 # .env file for environment variables (user specific)
+.env
