@@ -1,0 +1,5 @@
+[package]
+name = "ross-kernel"
+
+[dependencies]
+bootloader_api = "0.11"
